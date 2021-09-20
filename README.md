@@ -37,7 +37,7 @@ O in money é um projeto baseado no dt money do curso ignite da Rocketseat, solu
 <br>
 
 <p align="center">
-  <img src=".github/cover1.png" alt="Modal>
+  <img src=".github/cover1.png" alt="Modal">
 </p>
 
 ## Tecnologias
