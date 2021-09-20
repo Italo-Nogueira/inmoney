@@ -2,7 +2,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/made%20by-ITALO%20NOGUEIRA-5429CC?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/italo-nogueira/inmoney?logoColor=%235429CC&style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Italo-nogueira/inmoney?color=5429CC&style=flat-square">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/italo-nogueira/inmoney?color=%235429CC&style=flat-square">
   <a href="https://opensource.org/licenses/MIT">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-5429CC?style=flat-square">
